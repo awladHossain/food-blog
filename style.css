@@ -1,0 +1,22 @@
+.background-part{
+	background-image: url(img/bg.jpg);
+	height: 500px;
+	background-size: cover;
+}
+.background-part h1{
+	font-size: 70px;
+}
+
+.background-part p{
+	font-size: 20px;
+}
+.menus{
+	height: 450px;
+	width: 100%;
+}
+.about1{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	
+}
